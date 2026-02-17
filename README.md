@@ -12,15 +12,16 @@ to enable controlled internet access for public subnets.
 
 AWS Resources created using Terraform: 
 
-✔ VPC :     Panda_VPC.
-   
+
+✔ VPC :  Panda_VPC.
+
 ✔ Subnets :  Panda_Pri_Sub.
               Panda_Pub_Sun.
-             
 ✔ Route Table : Panda_Public-Route-table.
 
 ✔ Internet Gateway : Panda_IGW
 
+✔ Bastion Host to provide secure administrative access to private resources
 
 
 <img width="1917" height="1017" alt="VSCODE screen" src="https://github.com/user-attachments/assets/34124318-ea20-4052-a03d-e105aaeb244d" />
