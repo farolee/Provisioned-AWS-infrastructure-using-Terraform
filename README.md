@@ -1,5 +1,5 @@
 # Terraform-Based-AWS-Network-Infrastructure-Public-Private-Subnets-NAT-IGW-
- Deployment of a Highly Available AWS VPC Using Terraform
+ Deployment of a Highly Available AWS VPC and other resources Using Terraform
 
 
 Provisioned AWS infrastructure using Terraform, including a custom VPC with
