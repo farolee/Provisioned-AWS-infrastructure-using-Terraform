@@ -5,6 +5,7 @@ Design and Deployment of a Highly Available AWS VPC Using Terraform
 
 ![Alt text](Panda_Vpc.png)
 
+<img width="1899" height="1002" alt="Panda_Vpc" src="https://github.com/user-attachments/assets/fb6c7043-d7ce-4d0a-9bf4-7daf00930eac" />
 
 Provisioned AWS infrastructure using Terraform, including a custom VPC with
 public and private subnets, an Internet Gateway, and route tables configured 
