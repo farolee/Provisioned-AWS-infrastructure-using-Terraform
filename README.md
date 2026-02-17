@@ -7,10 +7,12 @@ public and private subnets, an Internet Gateway, and route tables configured
 to enable controlled internet access for public subnets.
 
 AWS Resources created using Terraform: 
-1. VPC :    Panda_VPC.
+
+1. VPC   :   Panda_VPC.
    
 2.Subnets: Panda_Pri_Sub.
-             Panda_Pub_Sun.
+           Panda_Pub_Sun.
              
-4.Route Table : Panda_Public-Route-table.
+3.Route Table : Panda_Public-Route-table.
+
 4,Internet Gateway:Panda_IGW
