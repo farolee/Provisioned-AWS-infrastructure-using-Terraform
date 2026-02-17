@@ -1,6 +1,8 @@
 # Terraform-Based-AWS-Network-Infrastructure-Public-Private-Subnets-NAT-IGW-
 Design and Deployment of a Highly Available AWS VPC Using Terraform
 
+![Alt text]( Panda_Vpc.png)
+
 
 Provisioned AWS infrastructure using Terraform, including a custom VPC with
 public and private subnets, an Internet Gateway, and route tables configured 
