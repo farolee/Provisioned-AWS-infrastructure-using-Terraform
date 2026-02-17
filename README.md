@@ -10,9 +10,9 @@ AWS Resources created using Terraform:
 
 1. VPC   :   Panda_VPC.
    
-2.Subnets: Panda_Pri_Sub.
+  2.Subnets: Panda_Pri_Sub.
            Panda_Pub_Sun.
              
-3.Route Table : Panda_Public-Route-table.
+  3.Route Table : Panda_Public-Route-table.
 
-4,Internet Gateway:Panda_IGW
+  4.Internet Gateway:Panda_IGW
