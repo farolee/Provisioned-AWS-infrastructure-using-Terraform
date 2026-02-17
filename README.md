@@ -24,7 +24,6 @@ AWS Resources created using Terraform:
 ✔ Internet Gateway : Panda_IGW
 
 
-##############################################################################################################################################
 
 <img width="1917" height="1017" alt="VSCODE screen" src="https://github.com/user-attachments/assets/34124318-ea20-4052-a03d-e105aaeb244d" />
 
